@@ -1,4 +1,5 @@
 # Задание для стажировки в Ozon
+[![Build Status](https://dev.azure.com/c7843543/OzonTask/_apis/build/status/Columbiysky.OzonTask?branchName=main)](https://dev.azure.com/c7843543/OzonTask/_build/latest?definitionId=4&branchName=main)
 
 API для отправки служебной почты, для реализации был выбран сервис почты: mail.ru.
 
